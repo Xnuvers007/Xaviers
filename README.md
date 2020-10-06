@@ -5,12 +5,7 @@
 <p><h1>Auto report Instagram accounts ( SPAM BOT ) 😈 </h1>
 <br> ⚠️Note! : We don't Accept any responsibility for any illegal usage.</p>
 
-<h2>007spam-BOT</h2>
-
-
-<img src="https://i.imgur.com/CifoNw5.jpg" data-canonical-src="https://www.youtube.com/watch?v=JX7fg5HrrSE&t=95s" style="max-width:100%;">
-
-
+<h2>Xaviers</h2>
 
 
 <h2>Usage</h2>
