@@ -90,9 +90,9 @@ if __name__ == "__main__":
     PROXIES = LoadProxies("./proxy.txt")
     print("")
 
-    username = GetInput("The account username you want to complain about:")
-    userid = GetInput("The account number you want to complain about:")
-    useproxy = GetInput("Do you want to use proxy? [Yes No]:")
+    username = GetInput("The account username you want to complain about/Username : ")
+    userid = GetInput("The account number you want to complain about/Nomor keberapa akunnya : ")
+    useproxy = GetInput("Do you want to use proxy? [Yes No] : ")
     if (useproxy == "Yes"):
         useproxy = True
     elif (useproxy == "No"):
@@ -100,7 +100,7 @@ if __name__ == "__main__":
     else:
         PrintFatalError("Please just enter 'Yes' or 'No'!")
         exit(0)
-    usemultithread = GetInput("Do you want to use multithreading? [Yes / No] (Do not use this feature if you have too many users or if your computer is slow!):")
+    usemultithread = GetInput("Do you want to use multithreading? [Yes / No] (Jangan gunakan Fitur ini Nanti Komputer/HP mu akan lambat !): ")
     
     if (usemultithread == "Yes"):
         usemultithread = True
